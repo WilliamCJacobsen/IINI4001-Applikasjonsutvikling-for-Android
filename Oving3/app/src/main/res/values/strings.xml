@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Oving3</string>
+    <string name="title_activity_insert">InsertActivity</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="new_input">New input</string>
+</resources>

@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Fragments</string>
+
+    <string name="tyler_text">Tyler Gregory Okonma (born March 6, 1991), commonly known by his stage name Ty
+        ler, the Creator, is an American rapper, record producer,and music video director.
+        He rose to prominence as the co-founder and de facto leader of the alternative hip hop </string>
+    
+    <string name="wolf_text">The wolf (Canis lupus), also known as the gray wolf, timber wolf, western wolf, and its other subspecies is a 
+        canine native to the wilderness and remote areas of Eurasia and North America. </string>
+
+    <string name="pokemon_text">Pokémon (Japanese: ポケモン Hepburn: Pokemon, Japanese: [pokemoɴ]; English: /ˈpoʊkɪˌmɒn, -ki-, -keɪ-/),
+        also known as Pocket Monsters (ポケットモンスター)
+        in Japan, is a Japanese media franchise managed by The Pokémon Company, </string>
+
+    <string-array name="Lists">
+        <item>Tyler</item>
+        <item>Wolf</item>
+        <item>pokemon</item>
+    </string-array>
+
+</resources>

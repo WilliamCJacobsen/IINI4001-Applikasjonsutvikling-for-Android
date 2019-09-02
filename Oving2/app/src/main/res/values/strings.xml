@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Oving2</string>
+    <string name="button">click me</string>
+
+    <string name="adder">adder</string>
+    <string name="mulitipliser"> multipliser</string>
+    <string name="svar">svar: </string>
+    <string name="Øvregrense">Øvre grense: </string>
+    <string name="riktig"> riktig! </string>
+    <string name="feil">Feil! riktig svar er </string>
+
+    <string name="title_activity_message">ActivityMessage</string>
+    <string name="title_activity_adder_sub">AdderSub</string>
+</resources>

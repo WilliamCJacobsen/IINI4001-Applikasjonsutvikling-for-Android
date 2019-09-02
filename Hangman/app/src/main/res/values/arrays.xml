@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+        <string-array name="guesses">
+            <item>uganda</item>
+            <item>norway</item>
+            <item>america</item>
+            <item>sweden</item>
+            <item>germany</item>
+            <item>france</item>
+            <item>ireland</item>
+            <item>tunisia</item>
+            <item>japan</item>
+            <item>italy</item>
+            <item>china</item>
+            <item>chile</item>
+            <item>mongolia</item>
+        </string-array>
+
+
+    <string-array name="gjettinger">
+        <item>navn</item>
+        <item>navn</item>
+        <item>navn</item>
+        <item>navn</item>
+        <item>navn</item>
+        <item>navn</item>
+        <item>navn</item>
+        <item>navn</item>
+        <item>navn</item>
+        <item>navn</item>
+        <item>navn</item>
+        <item>navn</item>
+        <item>navn</item>
+    </string-array>
+
+    <string-array name="images">
+        <item>@drawable/one</item>
+        <item>@drawable/two</item>
+        <item>@drawable/three</item>
+        <item>@drawable/four</item>
+        <item>@drawable/five</item>
+        <item>@drawable/six</item>
+        <item>@drawable/seven</item>
+    </string-array>
+
+</resources>
